@@ -1,22 +1,28 @@
 ## Maicharts-in-Zip: [Maichart-Converts](https://github.com/Neskol/Maichart-Converts) but not in split-zips.
 
 ### What is this?
-- Most chart players for maimai chart player uses Simai chart packs but it could be hard to find for a comprehensive database for those charts
-- This repo provides a hub for those seeking for charts as a byproduct while developing [`MaichartConverter`](https://github.com/Neskol/MaichartConverter), which converts charts between different formats
+- Most chart players for maimai chart player uses Simai chart packs but it could be hard to find for a comprehensive database for those charts.
+- This repo provides a hub for those seeking for charts as a byproduct while developing [`MaichartConverter`](https://github.com/Neskol/MaichartConverter), which converts charts between different formats.
 
 ### How to use?
-- Navigate to [Release](https://github.com/I21b/Maicharts-in-Zip/releases) section and download the latest release. Unpack and transfer them in a handy place so your chart player can find them
-> You may reach out for someone else who knows more for each chart player for how to import charts
+- Navigate to [Release](https://github.com/I21b/Maicharts-in-Zip/releases) section and download the latest release. Unpack and transfer them in a handy place so your chart player can find them.
+> ~~You may reach out for someone else who knows more for each chart player for how to import charts.~~
+> 
+> /storage/emulated/0/Android/data/[com.Reflektone.AstroDX](https://github.com/2394425147/astrodx)/files/levels/maimai/8_TRUELOVESONG/maidata.txt
 
 ### FAQ
 - Q: When would you update charts?
-> A: As soon as I obtain files from other public places including bbs, dm, etc., but I will not put them right away if I consider it was too new to put it here (`n-0`, which I never had a chance to get any). However, if you already got files that is not yet uploaded here, you can dm me to request a converted copy.
+> A: ~~As soon as I obtain files from other public places including bbs, dm, etc., but I will not put them right away if I consider it was too new to put it here (`n-0`, which I never had a chance to get any). However, if you already got files that is not yet uploaded here, you can dm me to request a converted copy.~~
+> 
+> After [release](https://github.com/Neskol/Maichart-Converts/releases).
 
 - Q: Links expired!
-> A: Naturally GitHub links wouldn't expire. If `mega` links expired, [start a issue here](https://github.com/Neskol/Maichart-Converts/issues/new) and I will reupload as soon as possible.
+> A: ~~Naturally GitHub links wouldn't expire.~~
+> 
+> If `mega` links expired, [start a issue here](https://github.com/Neskol/Maichart-Converts/issues/new) and Neskol will reupload it.
 
 - Q: Can you upload files to somewhere else?
-> A: I am not considering uploading to any other platforms that were too easy to get my resources blocked, but you are more than welcome to reupload - do cite me if possible
+> A: Neskol or I would not consider uploading to any other platforms that were too easy to get my resources blocked, but you are more than welcome to reupload - do cite Neskol if possible.
 
 - Q: I want background videos (BGA). Can you upload them?
 > A: I do have converts with BGA, but that copy is pretty large - 20GB+, which exceeds most platforms' free plans. Please consider using `MaichartConverter` to intergrate videos if you already have them.
