@@ -6,19 +6,16 @@
 
 ### How to use?
 - Navigate to [Release](https://github.com/I21b/Maicharts-in-Zip/releases) section and download the latest release. Unpack and transfer them in a handy place so your chart player can find them.
-> ~~You may reach out for someone else who knows more for each chart player for how to import charts.~~
-> 
+> ~~You may reach out for someone else who knows more for each chart player for how to import charts.~~<br>
 > /storage/emulated/0/Android/data/[com.Reflektone.AstroDX](https://github.com/2394425147/astrodx)/files/levels/maimai/8_TRUELOVESONG/maidata.txt
 
 ### FAQ
 - Q: When would you update charts?
-> A: ~~As soon as I obtain files from other public places including bbs, dm, etc., but I will not put them right away if I consider it was too new to put it here (`n-0`, which I never had a chance to get any). However, if you already got files that is not yet uploaded here, you can dm me to request a converted copy.~~
-> 
+> A: ~~As soon as I obtain files from other public places including bbs, dm, etc., but I will not put them right away if I consider it was too new to put it here (`n-0`, which I never had a chance to get any). However, if you already got files that is not yet uploaded here, you can dm me to request a converted copy.~~<br>
 > After [release](https://github.com/Neskol/Maichart-Converts/releases).
 
 - Q: Links expired!
-> A: ~~Naturally GitHub links wouldn't expire.~~
-> 
+> A: ~~Naturally GitHub links wouldn't expire.~~<br>
 > If `mega` links expired, [start a issue here](https://github.com/Neskol/Maichart-Converts/issues/new) and Neskol will reupload it.
 
 - Q: Can you upload files to somewhere else?
