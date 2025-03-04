@@ -1,5 +1,7 @@
 ## Maicharts-in-Zip: [Maichart-Converts](https://github.com/Neskol/Maichart-Converts) but not in split-zips.
 
+- [Chart Download Site](https://astrodx.milkbot.cn) only for China [reason](https://en.wikipedia.org/wiki/Great_Firewall), with id and name searching, by @lingdu2333.
+
 ### What is this?
 
 - Most chart players for maimai chart player uses Simai chart packs but it could be hard to find for a comprehensive database for those charts.
